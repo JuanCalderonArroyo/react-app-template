@@ -1,8 +1,12 @@
-# Template React 🚀
+# React App Template
 
-Este es un template base de React con Vite, listo para usar en Docker.
+Plantilla base de React con Vite, lista para ejecutar dentro de Docker.
 
-## Cómo correr localmente
+---
+
+## 🚀 Instrucciones
+
+### 🔧 Ejecución local (sin Docker)
 
 ```bash
 npm install
